@@ -16,4 +16,4 @@ int main(){
     cout<<"La suma de los elementos es: "<<suma<<endl;
     return 0;
 }   
-// Programa que suma los elementos de un arreglo
+// Programa que suma los elementos de un arregloo
